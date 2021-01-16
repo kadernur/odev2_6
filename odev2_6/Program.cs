@@ -11,6 +11,7 @@ namespace Products
             product0.Category = "Mutfak Eşyası";
             product0.ProductName = "Fincan Takımı";
             product0.Color = "Kırmızı";
+
             product0.Company = "Karaca";
             product0.Price = 90;
 
